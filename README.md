@@ -1,2 +1,1 @@
-# TilinoChatPrivacyPolicy
-Privacy Policy for Tilino Chat
+test1
