@@ -38,4 +38,4 @@ Contact
 
 For questions about this privacy policy, please contact:
 
-[your contact email address]
+heartpixellabs@gmail.com
